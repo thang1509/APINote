@@ -1,0 +1,13 @@
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/appsettings.Development.json
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/appsettings.json
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Controllers/DataNote.json
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Note.dll
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Note.deps.json
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Note.runtimeconfig.json
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Note.pdb
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Newtonsoft.Json.dll
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Npgsql.dll
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nhutvo/Projects/Note/Note/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

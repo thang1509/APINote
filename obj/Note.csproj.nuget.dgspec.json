@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nhutvo/Projects/Note/Note/Note.csproj": {}
+  },
+  "projects": {
+    "/Users/nhutvo/Projects/Note/Note/Note.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nhutvo/Projects/Note/Note/Note.csproj",
+        "projectName": "Note",
+        "projectPath": "/Users/nhutvo/Projects/Note/Note/Note.csproj",
+        "packagesPath": "/Users/nhutvo/.nuget/packages/",
+        "outputPath": "/Users/nhutvo/Projects/Note/Note/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nhutvo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.6.21355.2/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ArqfTG7dRmBMMeWOsCsob6uNYm6xS11uILi9x0S9FHoXvKVm61P5q1lYNgOpjqoNmw2zLYZjRcm+qhTbjMR/qA==",
+  "success": true,
+  "projectFilePath": "/Users/nhutvo/Projects/Note/Note/Note.csproj",
+  "expectedPackageFiles": [
+    "/Users/nhutvo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/nhutvo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nhutvo/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/nhutvo/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/nhutvo/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/nhutvo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/nhutvo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
